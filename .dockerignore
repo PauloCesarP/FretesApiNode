@@ -1,0 +1,14 @@
+node_modules/
+data/
+build/
+dist/
+
+node_modules
+data
+build
+dist
+
+/node_modules
+/data
+/build
+/dist
